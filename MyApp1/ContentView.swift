@@ -12,6 +12,8 @@ struct ContentView: View {
         VStack {
            
             Text("Group Members are:")
+            Text("Ameur - Teacher")
+            
         }
         .padding()
     }
