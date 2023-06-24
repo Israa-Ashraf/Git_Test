@@ -15,6 +15,7 @@ struct ContentView: View {
             Text("Ameur - Teacher")
             Text("Iman - Student")
             Text("Asmaa - Student")
+            Text("Israa - Student")
         }
         .padding()
     }
